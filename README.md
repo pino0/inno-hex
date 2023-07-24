@@ -58,7 +58,7 @@ How to Run the Application
 Integration Tests
 
 Integration tests have been developed to verify the functionality of the REST endpoint that provides the price service.
-These tests are executed against an in-memory database (H2) that is initialized with sample data before each test.
+These tests are executed against an in-memory database (H2) that is initialized with the data provided as an example.
 The tests have been implemented using the JUnit 5 and Spring Boot Test libraries.
 
 Test Cases
